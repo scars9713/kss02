@@ -1,0 +1,2 @@
+module kss01 {
+}
